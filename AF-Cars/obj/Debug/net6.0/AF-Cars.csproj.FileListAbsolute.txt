@@ -1,0 +1,15 @@
+D:\DESKTOP\ATH\Semestr 6\WP\Abstract_Factory_Java\AF-Cars\obj\Debug\net6.0\AF-Cars.csproj.AssemblyReference.cache
+D:\DESKTOP\ATH\Semestr 6\WP\Abstract_Factory_Java\AF-Cars\obj\Debug\net6.0\AF-Cars.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESKTOP\ATH\Semestr 6\WP\Abstract_Factory_Java\AF-Cars\obj\Debug\net6.0\AF-Cars.AssemblyInfoInputs.cache
+D:\DESKTOP\ATH\Semestr 6\WP\Abstract_Factory_Java\AF-Cars\obj\Debug\net6.0\AF-Cars.AssemblyInfo.cs
+D:\DESKTOP\ATH\Semestr 6\WP\Abstract_Factory_Java\AF-Cars\obj\Debug\net6.0\AF-Cars.csproj.CoreCompileInputs.cache
+D:\DESKTOP\ATH\Semestr 6\WP\Abstract_Factory_Java\AF-Cars\bin\Debug\net6.0\AF-Cars.exe
+D:\DESKTOP\ATH\Semestr 6\WP\Abstract_Factory_Java\AF-Cars\bin\Debug\net6.0\AF-Cars.deps.json
+D:\DESKTOP\ATH\Semestr 6\WP\Abstract_Factory_Java\AF-Cars\bin\Debug\net6.0\AF-Cars.runtimeconfig.json
+D:\DESKTOP\ATH\Semestr 6\WP\Abstract_Factory_Java\AF-Cars\bin\Debug\net6.0\AF-Cars.dll
+D:\DESKTOP\ATH\Semestr 6\WP\Abstract_Factory_Java\AF-Cars\bin\Debug\net6.0\AF-Cars.pdb
+D:\DESKTOP\ATH\Semestr 6\WP\Abstract_Factory_Java\AF-Cars\obj\Debug\net6.0\AF-Cars.dll
+D:\DESKTOP\ATH\Semestr 6\WP\Abstract_Factory_Java\AF-Cars\obj\Debug\net6.0\refint\AF-Cars.dll
+D:\DESKTOP\ATH\Semestr 6\WP\Abstract_Factory_Java\AF-Cars\obj\Debug\net6.0\AF-Cars.pdb
+D:\DESKTOP\ATH\Semestr 6\WP\Abstract_Factory_Java\AF-Cars\obj\Debug\net6.0\AF-Cars.genruntimeconfig.cache
+D:\DESKTOP\ATH\Semestr 6\WP\Abstract_Factory_Java\AF-Cars\obj\Debug\net6.0\ref\AF-Cars.dll
